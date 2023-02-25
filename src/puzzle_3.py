@@ -5,10 +5,6 @@ from customer_processor import CustomerProcessor
 processor = CustomerProcessor("noahs-csv/noahs-customers.csv")
 
 
-# product_df[product_df['desc'].str.contains('Coffee|Bagel')]
-# merged_df_2['ordered'] = pd.to_datetime(merged_df_2['ordered'])
-# filtered_df_2 = merged_df_2[merged_df_2['year'] == 2017]
-
 processor.df = processor.df[
     processor.df["citystatezip"].str.contains("South Ozone Park")
 ]
