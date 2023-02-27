@@ -16,7 +16,7 @@ The puzzles are designed to test your data analysis and problem-solving skills, 
 
 * A cat lady! - And that's where the rug went next.
 
-* Cheapskate - everything at a loss.
+* Bargin - everything at a loss.
 
 * Love at First Sight - another customer bought the same item in a different color.
 
@@ -25,6 +25,3 @@ The puzzles are designed to test your data analysis and problem-solving skills, 
 ## Solutions
 
 The solutions to the Hanukkah of Data  puzzles are provided in this repository in the form of Python scripts. The final variable in stored in the 'results' variable.
-
-
-
